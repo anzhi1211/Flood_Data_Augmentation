@@ -9,7 +9,7 @@ Usage Steps
 
     Within the origin_data folder, ensure the corresponding mask and image files are placed in subfolders with matching names.
 
-    Place the background images to be used for expansion in the .\data\background_data folder.（The author's self-built flood dataset augmentation library is located in the folder .\Flood_Dataset_Augmentation_Library. It can be      used by copying it to .\data\background_data.）
+    Place the background images to be used for expansion in the .\data\background_data folder.（The author's self-built flood dataset augmentation library is located in the folder .\Flood_Dataset_Augmentation_Library. It can be used by copying it to .\data\background_data.）
 
 2.Run the extraction script:
 
